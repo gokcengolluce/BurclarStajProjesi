@@ -1,0 +1,11 @@
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\bin\Debug\BurclarStaj.exe.config
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\bin\Debug\BurclarStaj.exe
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\bin\Debug\BurclarStaj.pdb
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.csproj.AssemblyReference.cache
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.csproj.SuggestedBindingRedirects.cache
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.Form1.resources
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.Properties.Resources.resources
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.csproj.GenerateResource.cache
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.csproj.CoreCompileInputs.cache
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.exe
+C:\Users\GÖKÇEN\source\repos\BurclarStaj\BurclarStaj\obj\Debug\BurclarStaj.pdb

@@ -1,5 +1,5 @@
 # burclarStajProjesi
-C# eğitimimin sonunda, stajkapsamında yaptığım proje. 
+### C# eğitimimin sonunda, staj kapsamında yaptığım proje. 
 ----
 # Astrolojinin Büyülü Dünyası: Burçların Kökeni ve Önemi
 
